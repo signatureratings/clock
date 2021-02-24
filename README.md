@@ -17,3 +17,5 @@ Explanation of Code
 
 making the background of the div with class clock as "clock.svg" and child div represents each hand in the clock and all the divs are absolute in position so that they can overlap
 after getting a static representation use keyframes to rotate the div so that the hand is rotating and rotate each div based on their rotation.
+
+check the link for deployed project : https://elegant-bose-add0b6.netlify.app/
